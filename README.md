@@ -30,3 +30,7 @@
 - リバースルーティングできる
 - catchall できる
     - `$map->get('catchall', '{/controller,action}')->wildcard('parts')->defaults(['controller' => 'index', 'action' => 'index'])`
+
+## zend-router
+
+- 辛そう
